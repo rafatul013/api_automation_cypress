@@ -24,7 +24,7 @@ describe("Test Update",()=>{
                 "additionalneeds" : "Breakfast"
             }
         }).then((response)=>{
-            expect(response.status).eq(204);
+            expect(response.status).eq(200);
             cy.log(JSON.stringify(response.body));
         })
     })

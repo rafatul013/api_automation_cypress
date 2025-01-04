@@ -70,12 +70,5 @@ This project demonstrates the automation of API endpoints using the Cypress fram
 ---
 
 ## **Mochawesome Report:**
-Sample HTML report output (replace this with an actual screenshot or description).  
-*Report includes detailed information about test execution.*
+![image](https://github.com/user-attachments/assets/03f42056-6881-453d-9c3c-518d2bcf070e)
 
----
-
-## **Video Output:**
-Cypress automatically generates video recordings of test runs. Example test videos:  
-- `CreateBookingTest.cy.js.mp4`  
-- `UpdateBookingTest.cy.js.mp4`
